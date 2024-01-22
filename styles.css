@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', 'sans-serif';
+    font-size: 16px;
+    background-color: lightgray;
+}
+
+a {
+    color: darkblue;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 44px;
+}
+
+.ingredients {
+    color: blue;
+}
+
+.steps {
+    color: darkolivegreen;
+}
+
+li a {
+    color: darkcyan;
+}
